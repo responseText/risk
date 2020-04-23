@@ -1,0 +1,20 @@
+.sidebar-menu .header h5 strong{
+    color:#FFFFFF;
+}
+
+
+/*  การแสดงผลในหน้าราบการหลัก */
+@media (min-width: 768px) {
+    .row .col-label-show
+    {
+       text-align: right;
+
+    }
+}
+@media (max-width: 480px) {
+    .row .col-label-show
+    {
+       text-align: left;
+
+    }
+}

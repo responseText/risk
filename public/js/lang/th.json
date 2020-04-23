@@ -1,0 +1,26 @@
+{
+    "decimal":        "",
+    "emptyTable":     "ไม่พบข้อมูล.",
+    "info":           "แสดง _START_ - _END_ จาก _TOTAL_ ข้อมูล",
+    "infoFiltered":   "(ค้นหาข้อมูล จาก _MAX_ รายการ )",
+    "infoEmpty": "0 รายการ",
+    "infoPostFix":    "",
+    "thousands":      ",",
+    "lengthMenu":     "แสดง _MENU_ ข้อมูล",
+    "loadingRecords": "<i class='fa fa-refresh fa-spin fa-3x'> กรุณารอซักครู่.</i>",
+    "processing":     " <i class='fa fa-refresh fa-spin fa-3x'> กรุณารอซักครู่.</i>",
+    "search":         "ค้นหา:",
+    "zeroRecords":    " <p class='alert alert-danger'>ไม่พบรายการ.</p>"  ,
+    "paginate": {
+            "first": " <i class='fa fa-step-backward'>",
+             "last": "<i class='fa fa-step-forward'>",
+             "next": "<i class='fa fa-forward'>",
+             "previous": " <i class='fa fa-backward'>"
+
+    },
+    "aria": {
+        "sortAscending":  ": activate to sort column ascending",
+        "sortDescending": ": activate to sort column descending"
+    }
+
+  }
