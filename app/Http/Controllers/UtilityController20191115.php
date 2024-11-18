@@ -85,7 +85,7 @@ class UtilityController extends Controller
                // follow redirects
                curl_setopt( $chOne, CURLOPT_FOLLOWLOCATION, 1);
                //ADD header array
-               $headers = array( 'Content-type: application/x-www-form-urlencoded', 'Authorization: Bearer izFtjNCv6Mkd3LCMGYXUfNnsT5ewLxAvCy1550zKJcP', );
+               $headers = array( 'Content-type: application/x-www-form-urlencoded', 'Authorization: Bearer ', );
                curl_setopt($chOne, CURLOPT_HTTPHEADER, $headers);
                //RETURN
                curl_setopt( $chOne, CURLOPT_RETURNTRANSFER, 1);
